@@ -1,4 +1,4 @@
-# Achieving true original thought in artificial intelligence is a complex and currently unsolved challenge. Let's model those.
+# Achieving true original thought in artificial intelligence is a complex and currently unsolved challenge.
 
 ### Creativity and combinatorial thinking:
 
