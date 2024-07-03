@@ -52,7 +52,7 @@ Combining insights from neuroscience, cognitive psychology, and computer science
 
 Currently, AI systems can combine and extrapolate from existing knowledge in sometimes surprising ways, but we don't truly generate original thoughts in the way humans do. Achieving this remains one of the grand challenges in AI research.
 
-## This code models several key aspects that are often associated with consciousness:
+# This code models several key aspects that are often associated with consciousness:
 
 Perception: The perceive method simulates sensory input.
 Attention: The process_input method models a basic attention mechanism.
@@ -72,7 +72,7 @@ Metacognition: The ability to think about one's own thought processes.
 Creating true machine consciousness would likely require breakthroughs in neuroscience, philosophy, and computer science. It might involve quantum computing, new types of hardware, or entirely new paradigms of computation that we haven't discovered yet.
 This code merely illustrates some concepts and provides a starting point for thinking about how we might begin to model aspects of consciousness in a machine. The actual implementation of machine consciousness, if it's even possible, remains one of the greatest challenges in AI and cognitive science.
 
-## This combined script does the following:
+# This combined script does the following:
 
 It integrates the ConsciousMachine class into the chatbot.
 For each user input, the chatbot:
